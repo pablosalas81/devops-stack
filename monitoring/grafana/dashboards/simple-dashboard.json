@@ -1,7 +1,7 @@
 {
   "id": null,
-  "title": "ROXS DevOps - Dashboard de Monitoreo",
-  "tags": ["devops", "prometheus", "roxs", "dashboard"],
+  "title": "DevOps - Dashboard de Monitoreo",
+  "tags": ["devops", "prometheus", "pablo", "dashboard"],
   "style": "dark",
   "timezone": "",
   "refresh": "30s",
