@@ -1,9 +1,9 @@
 FROM python:3.13-alpine AS builder
 
-LABEL org.opencontainers.image.title="roxs-devops-project" \
+LABEL org.opencontainers.image.title="devops-project" \
     org.opencontainers.image.description="A fullstack DevOps project using Python and Uvicorn" \
     org.opencontainers.image.version="1.0.0" \
-    org.opencontainers.image.authors="roxsross" \
+    org.opencontainers.image.authors="pablo" \
     org.opencontainers.image.licenses="MIT"
 
 ENV PYTHONUNBUFFERED=1 \
