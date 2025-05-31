@@ -122,27 +122,7 @@ docker system df
 
 ## 🚀 Instalación Rápida
 
-### Opción 1: Usando Makefile (Recomendado)
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/roxsross/roxs-devops-stack
-cd roxs-devops-stack
-
-# 2. Preparar el entorno
-make install
-
-# 3. Levantar la aplicación
-make up
-
-# 4. Verificar que todo funciona
-make health
-
-# 5. Ver URLs disponibles
-make urls
-```
-
-### Opción 2: Usando Docker Compose Directamente
+### Usando Docker Compose Directamente
 
 ```bash
 # 1. Crear redes necesarias
@@ -155,43 +135,7 @@ docker-compose up -d
 # 3. Verificar servicios
 docker-compose ps
 ```
-
-### 🎯 Todo en Uno
-
-```bash
-# Levantar aplicación + monitoreo completo
-make all
-```
-
-## 🎮 Uso
-
-### Comandos Principales
-
-```bash
-# Ver todos los comandos disponibles
-make help
-
-# Gestión de la aplicación
-make up           # Levantar aplicación
-make down         # Detener aplicación  
-make restart      # Reiniciar aplicación
-make logs         # Ver logs en tiempo real
-
-# Monitoreo
-make monitoring        # Levantar Prometheus + Grafana
-make stop-monitoring   # Detener monitoreo
-make monitoring-logs   # Ver logs del monitoreo
-
-# Utilidades
-make health       # Verificar salud de servicios
-make status       # Ver estado de contenedores
-make test         # Ejecutar tests básicos
-make backup       # Backup de la base de datos
-```
-
 ### 🌐 URLs de Acceso
-
-Después de ejecutar `make up` y `make monitoring`:
 
 | Servicio | URL | Credenciales |
 |----------|-----|--------------|
