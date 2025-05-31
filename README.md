@@ -1,6 +1,3 @@
-# 🚀 DevOps Items Management - Proyecto  by RoxsRoss
-
-![](https://media.licdn.com/dms/image/v2/D4D16AQF4ND-cC_uxZg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731367727725?e=1753920000&v=beta&t=80SZ4IOx4V_VDcCBli7aFjYuMhzMos9SRFq8GnV8zc4)
 
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)](https://docker.com)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -8,10 +5,7 @@
 [![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)](https://prometheus.io)
 [![Grafana](https://img.shields.io/badge/Grafana-Visualization-orange?logo=grafana)](https://grafana.com)
 
-> **Proyecto educativo de DevOps** creado por **roxsross** para aprender conceptos fundamentales de desarrollo, contenedores, orquestación y monitoreo.
-
-
-## 📸 Screenshots del Ecosistema ROXS
+## 📸 Screenshots del Ecosistema 
 
 <div align="center">
 
@@ -495,19 +489,3 @@ make exec-db
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo MIT License - ver el archivo [LICENSE](LICENSE) para detalles.
-
-## 👨‍💻 Autor
-
-**roxsross** - Instructor DevOps y Cloud
-
-- 🐦 Twitter: [@roxsross](https://twitter.com/roxsross)
-- 🔗 LinkedIn: [roxsross](https://linkedin.com/in/roxsross)
-- ☕ Ko-fi [roxsross](https://ko-fi.com/roxsross)
-- ▶️ Youtube [295devops](https://www.youtube.com/@295devops)
-- 📧 Email: roxs@295devops.com
-
----
-
-⭐ **¡Dale una estrella si este proyecto te ayudó!** ⭐
-
-> 💡 **Tip**: Este proyecto está diseñado para fines educativos. Úsalo para aprender DevOps, contenedores, y monitoreo.
