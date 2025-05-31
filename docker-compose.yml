@@ -72,5 +72,5 @@ volumes:
   pgdata:
 
 networks:
-  roxs-app-network:
+  pablo-app-network:
     driver: bridge
