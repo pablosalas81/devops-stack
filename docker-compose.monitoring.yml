@@ -85,7 +85,7 @@ volumes:
   grafana_data:
 
 networks:
-  roxs-monitoring-network:
+  pablo-monitoring-network:
     driver: bridge
-  roxs-app-network:
+  pablo-app-network:
     driver: bridge
